@@ -31,6 +31,7 @@ int main()
 	cout << "Speed: " << robot.getSpeed() << " ft/s" << endl;
 
 	return 0;
+}
 
 
 

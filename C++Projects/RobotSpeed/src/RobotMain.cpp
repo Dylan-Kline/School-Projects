@@ -11,11 +11,11 @@ int main()
 	double newRPM, //Used to store user inputted speeds
 		newDiameter; //Stores the user inputted wheel diameter
 
-	//Ask for the new speed and wheel diameter
-	cout << "What is the new speed of the robot? ";
+	//Ask for the new RPM and wheel diameter
+	cout << "What is the new RPM of the robot? ";
 	cin >> newRPM;
 	cout << endl;
-	cout << "What is the new wheel diameter for the robots wheels? ";
+	cout << "What is the new wheel diameter for the robots wheels?(1-6) ";
 	cin >> newDiameter;
 	cout << endl;
 
@@ -28,9 +28,9 @@ int main()
 	//Prints out current RPM, Diameter, and speed
 	cout << "RPM: " << robot.getRPM() << endl;
 	cout << "Diameter: " << robot.getDiameter() << endl;
-	cout << "Speed: " << robot.getSpeed() << endl;
+	cout << "Speed: " << robot.getSpeed() << " ft/s" << endl;
 
 	return 0;
 
 
-}
+

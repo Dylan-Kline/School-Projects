@@ -1,3 +1,3 @@
 # School-Projects
 
-Various Projects I have completed in the course of my Education!
+Various Projects I have completed as school work!

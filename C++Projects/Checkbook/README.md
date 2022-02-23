@@ -1,1 +1,1 @@
-
+-This was a simple program to balance a checkbook given user transactions.-

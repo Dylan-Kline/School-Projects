@@ -1,3 +1,3 @@
 # School-Projects
 
-Various Projects I have completed over the course of my College education!
+Various Projects I have completed as I learn the essence of programming. 

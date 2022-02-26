@@ -24,7 +24,7 @@ def main():
         if(year%4==0 and year%100!=0 or year%400==0):
             global Feb
             Feb = 29
-            print(year, 'was a leap year')
+            print(year, 'was a leap year.')
         else:
             print('Not a leap year.')
         

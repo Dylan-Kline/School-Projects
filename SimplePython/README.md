@@ -1,2 +1,2 @@
 
-Some simple python programs created during first experience with computer science.
+Some simple python programs created during my first experience with programming.
